@@ -40,13 +40,7 @@
         height: 30rem;
         grid-row: 1;
     }
-}
 
-/**********************/
-/* BELOW 400PX */
-/**********************/
-
-@media(max-width: 25em){
     .stats-text{
         text-align: center;
     }
